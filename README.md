@@ -6,4 +6,4 @@ Hola, mi nombre es Isia/Sakyeil, soy una desarrolladora y programadora en proces
 
 Lenguajes y programas donde estudio y aprendo:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,python,bash,windows,java,c,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,python,bash,windows,java,c,css)]()
